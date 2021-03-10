@@ -1,0 +1,15 @@
+javascript:void(0)/*
+Theme Name: PlantillaWP
+Theme URI:
+Author: Juan Pablo De la torre
+Author URI: http://www.easy-webdev.com
+Description: Mi primer plantilla en WordPress
+Version: 1.0
+Licence: GNU General Public licence or later
+Tags: html5, css3, ciudad
+*/
+
+body {
+  background-color: red;
+
+}
